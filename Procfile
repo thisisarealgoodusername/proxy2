@@ -1,1 +1,1 @@
-web: python proxy2.py
+web: python proxy2.py 80
