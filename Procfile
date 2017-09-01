@@ -1,1 +1,1 @@
-web: python proxy2.py 80
+web: python proxy2.py $PORT
