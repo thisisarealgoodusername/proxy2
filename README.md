@@ -1,7 +1,6 @@
 # proxy2
 
 HTTP/HTTPS proxy in a single python script
-fix typo
 
 
 ## Features
